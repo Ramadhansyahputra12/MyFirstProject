@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+
+    <string name="konten_berita">
+        ini isi berita
+        apa aja
+        katanya lgi populer
+    </string>
+</resources>
